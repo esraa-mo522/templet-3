@@ -1,4 +1,4 @@
-body{
+/*body{
     font-family: 'varela Round',sans-serif;
 }
 *{
@@ -20,7 +20,7 @@ body{
 }*/
 
 
-.logo{
+/*.logo{
     
     width:40%;
     float: left;
@@ -42,6 +42,10 @@ body{
    display: flex;
     -webkit-justify-content:space-around;
     -moz-justify-content:space-around;
+     -ms-justify-content:space-around;
+     -o-justify-content:space-around;
+    
+    
     margin-top: 20px;
 
     
@@ -82,7 +86,7 @@ body{
     background-image: url(../images/20160608-35.jpg);
     position: relative
     z-index:-1
-}
+}*/
 /*.overlay{
   position:absolute;
     height: 100%;
@@ -92,7 +96,7 @@ body{
    background-color: rgba(0,0,0,.6);
     z-index: :-1
 }*/
-.home-content{
+/*.home-content{
 position:absolute;
     top:40%;
     left:40%
@@ -163,9 +167,9 @@ margin:10 auto 70 auto;
 #who-header{
     
    padding-bottom: 50px 
-}
+}*/
 
-#who p{
+/*#who p{
     margin-right: 30px;
    direction: rtl ;
     font-size: 25px;
@@ -256,8 +260,10 @@ margin:80px auto;
 	-webkit-justify-content:space-around;
     
 	-moz-justify-content:space-around;
+    -ms-justify-content:space-around;
+    -o-justify-content:space-around;*/
 }
-.social-list a{
+/*.social-list a{
 	
 	color:#931e1e
 }
@@ -273,9 +279,9 @@ margin:80px auto;
 color:#eee;
 position:absolute;
 top:20px;
-left:40%
+left:38%
 	
 }
 .street p{
     margin-bottom: 15px
-}
+}*/
